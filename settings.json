@@ -1,0 +1,25 @@
+{
+  "files.autoSave": "onFocusChange",
+    "editor.renderWhitespace": "all",
+	"editor.detectIndentation": false,
+	"editor.fontSize": 14,
+    "editor.padding.top": 300,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "editor.rulers": [
+        80
+    ],
+    "clang-format.fallbackStyle": "Google",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+	"clang-format.executable": "/Users/fsandel/.brew/bin/clang-format",
+  "window.zoomLevel": 1,
+  "explorer.confirmDelete": false
+}

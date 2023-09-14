@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Florian Sandel
+	email = fsandel@student.42heilbronn.de
+# Please adapt and uncomment the following lines:
+#	name = Florian Sandel
+#	email = fsandel@student.42heilbronn.de
