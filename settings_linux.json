@@ -1,0 +1,23 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "onFocusChange",
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "[cpp]": {
+      "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "clang-format.language.apex.enable": false,
+    "clang-format.language.c.enable": false,
+    "clang-format.language.cpp.style": "Google",
+    "clang-format.language.cuda.enable": false,
+    "clang-format.language.glsl.enable": false,
+    "clang-format.language.java.enable": false,
+    "clang-format.language.objective-c.enable": false,
+    "clang-format.language.objective-cpp.enable": false,
+    "clang-format.language.proto.enable": false,
+    "clang-format.language.typescript.style": "google",
+    "clang-format.language.javascript.style": "google",
+    "clang-format.language.cpp.fallbackStyle": "google",
+    "clang-format.fallbackStyle": ""
+}
